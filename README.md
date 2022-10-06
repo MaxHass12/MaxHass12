@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shwetank Tewari.
 - 👀 I’m interested in Web Application Development and the related infrastructure.
-- 🌱 I’m currently learning C Programming Language.
+- 🌱 I’m currently working towards a personal project.
 - 💞️ I’m looking to collaborate on creating a personal project.
 - 📫 How to reach me : email - shwetank.tewari.87@gmail.com
 
