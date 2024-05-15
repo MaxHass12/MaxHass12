@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shwetank Tewari. I am currently in New York, USA.
-- 👀 I’m interested in Web Application Development and the related infrastructure.
-- 🌱 I’m currently working on completing the FullStackOpen course offered by University of Helsinky.
-- 💞️ I’m looking to collaborate on creating a portfolio project.
+- 👀 I’m interested in Web Application Development and the related security and networking infrastructure.
+- 🌱 I’m currently working on completing the Core Program offered by Launch School.
 - 📫 How to reach me : email - shwetank.tewari.87@gmail.com
 
 <!---
