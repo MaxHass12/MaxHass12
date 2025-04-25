@@ -22,36 +22,14 @@ An open-source, self-hosted LLM gateway for routing, caching, and observing mult
 - Integrated observability system using Parquet, AWS S3, Athena, DynamoDB
 - Vector-based caching using OpenSearch and Bedrock Titan
 - Dynamic Configuration Dashboard in React  
-> Tech Stack: TypeScript, AWS (Lambda, S3, CDK, Athena), React, OpenSearch
 
 #### 🧪 Lab Inventory Management System (Contract @ SWFTLabs) | 2024
 - Developed a complete LIMS using TypeScript, Express, PostgreSQL, React
 - Added QR scanning, secure login (JWT + Google Sign-In), and Slack integration  
-> Tech Stack: TypeScript, PostgreSQL, Prisma, React, DigitalOcean
 
 #### 🛠 Freelance & OSS Projects | 2021 – 2023
 - AI chatbot with RAG and PDF-to-Markdown ingestion
 - Webhook collection app inspired by RequestBin  
-> Tech Stack: Node.js, MongoDB, Express, React
-
----
-
-### 💼 Experience Snapshot
-
-- 💻 Software Engineer & OSS Contributor (2021–Present)
-- 🧠 Researcher in European Studies (2014–2020)
-- 🎓 IIT BHU Grad, B.Tech – Engineering (2006–2010)
-
----
-
-### 🧰 Skills & Tools
-
-**Backend:** Node.js, Express, Ruby, PostgreSQL, MongoDB, REST, GraphQL  
-**Frontend:** React/Redux, JavaScript, TypeScript, HTML/CSS  
-**Cloud & DevOps:** AWS, DigitalOcean, Docker, Linux, Nginx, Fly.io, Render  
-**Other:** Git, Bash, WebSockets, Jest, OOP, QR Code, Slack APIs
-
----
 
 ### 🌐 Let's Connect
 
